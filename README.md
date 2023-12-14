@@ -9,4 +9,4 @@ https://coding-campus.ai/tutorial/view/b4cd958b33c54e4c969d2acb0e44068b
 
 
 [실행화면]
-![screenshot.png](https://github.com/coding-campus-ai/SpriteKitLabelExample/blob/main/screenshot.png)
+![screenshot.gif](https://github.com/coding-campus-ai/SpriteKitLabelActionExample/blob/main/screenshot.gif)
